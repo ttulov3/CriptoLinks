@@ -1,5 +1,5 @@
 
-import { Social } from '../../Componentes/Social'
+import { Social } from '../../Components/Social'
 
 import { FaFacebook, FaInstagram, FaYoutube } from 'react-icons/fa'
 
@@ -16,6 +16,7 @@ export function Home(){
             <p className="text-base md:text-lg">
               Canal no Youtube
             </p>
+            
           </a>
         </section>
 
